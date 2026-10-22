@@ -2,8 +2,8 @@
 
 🎓 Étudiant en **M1 Innovation et Technologie** et **M2 Calcul Numérique**
 🏫 Université d'Antananarivo, Madagascar 🇲🇬
-🤖 En formation **Intelligence Artificielle** à Orange Digital Center
-🤖 En formation **Excel Avancée** à Orange Digital Center
+🤖Suit la formation **Intelligence Artificielle** à Orange Digital Center
+🤖 Suit la En formation **Excel Avancée** à Orange Digital Center
 
 ## 🔭 Ce que je fais
 - Développement web : pages en HTML5 / CSS3

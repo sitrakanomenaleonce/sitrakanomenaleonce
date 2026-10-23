@@ -22,9 +22,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
+<!--
 ## 📂 Projets
 - 🌐 [Mon portfolio](https://sitrakanomenaleonce.github.io)
-- 📄 [Page d'inscription type Facebook (HTML/CSS)](https://github.com/sitrakanomenaleonce/petite-site)
+- 📄 [Page d'inscription type Facebook (HTML/CSS)](https://github.com/sitrakanomenaleonce/petite-site)  -->
 
 ## 📫 Me contacter
 - 💼 LinkedIn : www.linkedin.com/in/sitraka-nomena-leonce-harison-028605349

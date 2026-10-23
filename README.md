@@ -10,6 +10,7 @@
 - Calcul numérique et mathématiques appliquées
 - Découverte de l'intelligence artificielle Avancée
 - Découverte d' Excel Avancée
+- Etudes des structures et Programmation Orientée Objet sur C et C++
 
 ## 🛠️ Compétences
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
